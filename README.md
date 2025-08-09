@@ -1,6 +1,5 @@
 - 👋 Hi, I’m MADHESH  
 - 👀 I’m interested in AI&ML and Robotics and Microcontrollers
-- 🌱 I’m currently learning PLC and Data Science
 - 📫 How to reach me Madheshwaran299@gmail.com
 
 
