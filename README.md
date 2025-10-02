@@ -17,11 +17,11 @@
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MADHESH1234&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MADHESH1234&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHESH1234&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Madhesh-voidx&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Madhesh-voidx&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhesh-voidx&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=AI+will+not+replace+humans%2C+but+humans+with+AI+will+replace+humans+without+AI.&author=Kai-Fu+Lee)]
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=AI+will+not+replace+humans%2C+but+humans+with+AI+will+replace+humans+without+AI.&author=Kai-Fu+Lee)
 
 
